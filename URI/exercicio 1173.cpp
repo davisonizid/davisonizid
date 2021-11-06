@@ -3,14 +3,13 @@ using namespace std;
 
 int main()
 {
-
     int x;
-        cin >> x
+        cin >> x;
 
     int vet [10];
     vet[0] = x;
 
-    for (int  = 1; i <1 0; i++){
+    for (int i = 1; i < 10; i++){
         vet[i] = vet [i-1] * 2;
         }
 
