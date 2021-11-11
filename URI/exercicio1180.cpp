@@ -27,7 +27,7 @@ int main()
                 p=0;
             }
         }
-        
+        // teste git hub
     
     cout << "Menor valor: " << men << endl << "Posicao: " << p << endl;
 }
